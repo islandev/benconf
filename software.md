@@ -17,7 +17,7 @@ xmind| 思维导图| 梳理思路
  alfred| 日常快捷键操作|  收费
  paste| 复制粘贴| 收费
  pdfExpert| pdf阅读器 | 收费
-synergy| 键盘鼠标共享软件| 收费
+synergy| 键盘鼠标共享软件| 收费| [synergy github](https://github.com/symless/synergy-core)
 things3| todolist| 收费| 推荐
 
 
