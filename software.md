@@ -28,4 +28,11 @@ things3| todolist| 收费| 推荐
 aria2Gui|下载百度云| brew
 cleanMyMac|清理电脑|
 
+# 命令行工具
+
+名称| 作用  | 备注|
+--|--|--
+jq| json格式化｜ brew安装
+
+
 
